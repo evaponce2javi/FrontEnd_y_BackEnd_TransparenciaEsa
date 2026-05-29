@@ -1,7 +1,7 @@
 ## Qué tener instalado:
-1. Docket Desktop (empaqueta el servicio web Express y PostgreSQL). Hay que abrirlo y luego tendrá el icono de una ballena que debe ponerse en verde.
-2. Node JS (Descargar librerías de REACT)
-3. VS Code
+1. **Docket Desktop** (empaqueta el servicio web Express y PostgreSQL). Hay que abrirlo y luego tendrá el icono de una ballena que debe ponerse en verde.
+2. **Node JS** (Descargar librerías de REACT)
+3. **VS Code u otro**
 
 ### Verificar instalación:
 
